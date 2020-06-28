@@ -83,19 +83,6 @@ namespace SpinkKitDemo
             scrollView.AddSubview(panel);
     
             _numberOfSpinners += 1;
-        }       
-
-        //public override void ViewDidLoad()
-        //{
-        //    base.ViewDidLoad();
-
-        //    var view = new RTSpinKitView(RTSpinKitViewStyle.Wave)
-        //    {
-        //        Color = UIColor.Green,
-        //        SpinnerSize = 200
-        //    };
-        //    view.SetColor(UIColor.Red, true);
-        //    View.AddSubview(view);
-        //}
+        }
     }
 }
